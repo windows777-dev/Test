@@ -1,3 +1,2 @@
 # Test
-
-So this is basically a test respitory however it just prints stuffs out and abit more stuff
+So you can learn C# here if you are urged to.
